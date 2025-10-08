@@ -54,7 +54,3 @@ This project is a React + Vite decentralized application that:
 - `window.ethereum` undefined — install MetaMask.
 - "Insufficient funds" — get test ETH from a faucet.
 - Ethers version mismatch — ensure `ethers` is ^6.x.
-
-If you want, I can also:
-- Walk you through running the app step-by-step
-- Provide screenshots or GIF of the workflow
